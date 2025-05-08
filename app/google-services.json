@@ -1,0 +1,29 @@
+  {
+  "project_info": {
+    "project_number": "162031602570",
+    "project_id": "expensetrackerarihant",
+    "storage_bucket": "expensetrackerarihant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162031602570:android:2e6a07d5da48dcd3d59673",
+        "android_client_info": {
+          "package_name": "com.example.expensetrackerarihant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuf2TPT2IeuWELkaPWaqxio0Xke6ZLy2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
